@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "test": "tsc && jest"
+  },
   "dependencies": {
     "typescript": "^4.6.4"
   },
